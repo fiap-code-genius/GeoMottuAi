@@ -3,7 +3,18 @@
 
     1- Criar o ambiente virtual caso não esteja no PyCharm: python -m venv venv
     2- Ativar o ambiente virtual: venv\Scripts\activate
-    3- Baixar as dependências dentro do ambiente: pip install ultralytics opencv-python pandas
+    3- Baixar as dependências dentro do ambiente: pip install ultralytics opencv-python pandas cx_Oracle
+    
+    AVISO!!!: Para o cx_Oracle rodar além de você ter que instalar a biblioteca você deve instalar um pacote
+    de instaclient neste Link: https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html
+
+    A versão utilizada por mim foi a: instantclient-basic-windows.x64-23.8.0.25.04.zip
+    
+    Após a instalação extraia todos os arquivos do zip em uma pasta no seu disco C, exemplo: C:\oracle\instantclient_21_18
+
+    Logo depois entre nas variáveis de ambiente do sistema Windows, e clique em Variáveis de Ambiente
+    Logo após nas variáveis do sistema terá uma chamada Path, clique nela e depois em editar, depois clique em *Novo*
+    E cole o caminho onde está o seu InstaClient
 
     Depois rode o script ou pelo botão de play ou pelo terminal usando o comando:
     python GeoMottu.py
