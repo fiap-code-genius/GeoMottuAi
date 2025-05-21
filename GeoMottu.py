@@ -32,8 +32,8 @@ import sys
 try:
     dsn = cx_Oracle.makedsn("oracle.fiap.com.br", 1521, service_name="orcl")
     conn = cx_Oracle.connect(
-        user="rm558043",
-        password="fiap24",
+        user="seu-user",
+        password="sua-senha",
         dsn=dsn
     )
     print("Conectado ao banco com sucesso!")
