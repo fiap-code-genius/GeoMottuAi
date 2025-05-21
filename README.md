@@ -135,10 +135,12 @@ A tabela `MOTOS_LOCALIZADAS` recebe os seguintes dados:
 ## Resultados
 
  - Detecção de motos:
+
    ![Captura de tela 2025-05-21 142307](https://github.com/user-attachments/assets/43eff66a-d8a7-4775-873c-3b232245e513)
 
 
 - Resultados no banco de dados:
+
   ![Captura de tela 2025-05-21 142323](https://github.com/user-attachments/assets/c8bc6737-afa8-49b2-a2a3-8c6ead432763)
 
 ---
