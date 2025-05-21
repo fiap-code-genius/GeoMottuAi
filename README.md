@@ -78,6 +78,13 @@ Ou use o botão de **play** no PyCharm.
 
 ---
 
+## Utilização
+
+ - Basta pegar uma imagem ou vídeo qualquer que contenha uma moto e apontar para sua câmera que a mágica já será feita.
+ - Garanta de ter a tabela no banco de dados criada utilizando o script que está dentro do projeto.
+
+---
+
 ## 💾 Exemplo de Registro no Banco
 
 A tabela `MOTOS_LOCALIZADAS` recebe os seguintes dados:
