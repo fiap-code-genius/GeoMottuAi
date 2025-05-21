@@ -31,7 +31,7 @@ O projeto **GeoMottu** tem como objetivo detectar e rastrear motos em tempo real
 - Webcam
 - Acesso ao banco Oracle FIAP (com usuário/senha válidos)
 
-  ### InstatClient
+  ### InstantClient
 
   Mais abaixo haverá um Link para baixar o mesmo e aqui mostrarei como configurar ele:
 
